@@ -7,7 +7,7 @@ const App: React.FC = () => (
     <FloatButton.Group
       trigger="click"
       type="primary"
-      style={{ right: 24 }}
+      style={{ right: 20 }}
       icon={<CustomerServiceOutlined />}
     >
       <FloatButton />
